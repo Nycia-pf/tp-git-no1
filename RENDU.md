@@ -50,4 +50,39 @@ https://nycia-pf.github.io/tp-git-no1/
 
 ## Ex10
 git log --oneline --graph --all :
+0c289da (HEAD -> main, tag: rendu) ex10: complète le rendu
+- c06ef47 ex10: complète le rendu
+- 56b0958 ex9: ajoute la page d'accueil
+- 9d2f780 ex9: ajoute la page d'accueil
+- 52507e1 ex8: modification depuis GitHub
+- b1461ad Merge pull request #1 from Nycia-pf/feature-contact
+  |\  
+  | _ dd1d504 (feature-contact) ex8: ajoute la page contact
+  |/  
+  | _ 7ddf059 (refs/stash) WIP on main: d60d83c ex7: ajoute une ligne par erreur
+  |/|
+  | \* b38a932 index on main: d60d83c ex7: ajoute une ligne par erreur
+  |/
+- d60d83c ex7: ajoute une ligne par erreur
+- 625b750 ex6: résout le conflit du titre
+  |\  
+  | \* ec5aaa1 ex6: titre en anglais
+- | 93e3124 ex6: titre en français
+  |/
+- ca16c79 ex5: fusionne feature-menu
+  |\  
+  | _ 21d8027 ex5: ajoute un dessert
+  | _ 95a382e ex5: crée le menu
+  |/
+- 659ed21 ex4: supprime a-supprimer.txt
+- a366574 ex4: renomme ancien.txt
+- 1814e6b ex4: ajoute trois fichiers
+- ee09867 ex3: arrête de suivre config.local
+- 6452f17 ex3: arrête de suivre config.local
+- 1bc0077 ex3: ajoute config.local (erreur)
+- d8eac94 ex3: ajoute .gitignore
+- bfc7f25 ex2: corrige une faute
+- 23316e6 ex2: ajoute trois lignes
+- 569f401 ex2: crée les notes
+- 0b10bcc ex1: initialise le dépôt
 ```
