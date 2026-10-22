@@ -44,9 +44,7 @@ Pour pas perdre de trace sans perdre la face devant nos contributeurs / notre pu
 
 
 ## Ex8
-- git pull = git fetch + quoi ?git merge !## Ex9
-https://nycia-pf.github.io/tp-git-no1/
-
+- git pull = git fetch + quoi ?git merge !
 
 ## Ex10
 git log --oneline --graph --all :
