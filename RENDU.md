@@ -1,8 +1,8 @@
 ```markdown
 # Rendu : pseudo
 
-- Dépôt :
-- Site GitHub Pages :
+- Dépôt : https://github.com/Nycia-pf/tp-git-no1
+- Site GitHub Pages : https://nycia-pf.github.io/tp-git-no1/
 
 ## Ex2
 git log --oneline :
