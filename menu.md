@@ -1,6 +1,9 @@
-# Menu du jour
+# Menu du jour / Today's Menu
 
 entrée : du turron
+
 plat 1 : du bois sec
+
 plat 2 : salade chaises en bois de chêne
+
 dessert : oui
