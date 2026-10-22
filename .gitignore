@@ -2,3 +2,4 @@
 *.log
 node_modules
 config.local
+config.local
